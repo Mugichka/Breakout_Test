@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6e9ebd0c6001204881c3ba77ecd06ce, type: 3}
+  m_Name: BrickLayoutConfig
+  m_EditorClassIdentifier: 
+  columns: 14
+  rows: 6
+  rowColors:
+  - {r: 0.06541473, g: 0.9245283, b: 0.79671544, a: 0}
+  - {r: 0.066666655, g: 0.72123647, b: 0.9254902, a: 0}
+  - {r: 0.066666655, g: 0.3609001, b: 0.9254902, a: 0}
+  - {r: 0.14431226, g: 0.066666655, b: 0.9254902, a: 0}
+  - {r: 0.6538112, g: 0.066666655, b: 0.9254902, a: 0}
+  - {r: 0.9254902, g: 0.066666655, b: 0.72661465, a: 0}
+  - {r: 0.9254902, g: 0.066666655, b: 0.37407985, a: 0}
